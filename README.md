@@ -1,2 +1,2 @@
-# northegg.github.io
+# HomePage
 GitHub Pages
